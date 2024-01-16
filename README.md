@@ -1,5 +1,4 @@
 # git_hello_world
-<<<<<<< HEAD
 print("Hello World")
 
 System.out.println("Hello World");
@@ -11,6 +10,7 @@ printf("Hello World");
 Console c = new Console();
 c.println("Hello World");
 
+NEW BRANCH!!!
+
 =======
 hello world
->>>>>>> ab8e3d91ed6dac3ee6ff7f6dd42fcbcb5a0f67e6
